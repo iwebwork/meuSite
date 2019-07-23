@@ -3,6 +3,7 @@
         <title>Meu site</title>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/bootstrap.min.css"/>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/templateOne.css"/>
+        <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/animate.css"/>
     </header>
     <body onload="date()">
         <nav class="navbar navbar-expand-lg navbar-light style-nave">
@@ -17,10 +18,10 @@
                         <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Curriculo<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#">Curriculum<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contato<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#">Contact<span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#">Blog<span class="sr-only">(current)</span></a>
@@ -31,7 +32,7 @@
     
         <?php $this->loadViewInTemplateOne($viewName, $viewData);?>
 
-        <div class="container-fluid style-rodape">
+        <div class="container-fluid style-rodape" id="rodape">
             <div class="row">
                 <div class="col-sm">
                     <p class="text-center style-nave-text"> Todos os direitos reservados @<text id="data"> </text></p>

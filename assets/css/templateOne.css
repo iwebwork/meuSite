@@ -41,3 +41,17 @@
 .secundaria {
     color:  #4D452F;
 }
+
+.margin-top{
+    margin-top: 80px;
+}
+
+#tudo {
+	position: relative;
+	
+}
+
+#rodape {
+	position: absolute;
+	bottom: 0;
+}
