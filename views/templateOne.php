@@ -1,18 +1,22 @@
 <html>
     <header>
         <title>Meu site</title>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <link rel="shortcut icon" href="<?php echo BASE_URL;?>assets/images/logo.png"/>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/bootstrap.min.css"/>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/templateOne.css"/>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/animate.css"/>
     </header>
     <body onload="date()">
-        <nav class="navbar navbar-expand-lg navbar-light style-nave">
+        <nav class="navbar navbar-expand-lg navbar-light style-nave ">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
+               <img class="img-logo" src="<?php echo BASE_URL;?>assets/images/logo.png" >
             </button>
-            <a class="navbar-brand" href="#"><img class="img-logo" src="<?php echo BASE_URL?>assets/images/logo.png" ></a>
 
-            <div class="collapse navbar-collapse d-flex flex-row-reverse" id="navbarTogglerDemo03">
+            <div class="collapse navbar-collapse d-flex justify-content-center" id="navbarTogglerDemo03">
+                <a class="navbar-brand logo-invisible" href="#"><img class="img-logo" src="<?php echo BASE_URL;?>assets/images/logo.png" ></a>
                 <ul class="navbar-nav">
                     <li class="style-nave-text">
                         <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
@@ -32,10 +36,10 @@
     
         <?php $this->loadViewInTemplateOne($viewName, $viewData);?>
 
-        <div class="container-fluid style-rodape" id="rodape">
+        <div class="container-fluid style-rodape margin-top" id="rodape">
             <div class="row">
                 <div class="col-sm">
-                    <p class="text-center style-nave-text"> Todos os direitos reservados @<text id="data"> </text></p>
+                    <p class="text-center style-nave-text"> All rights reserved @<text id="data"> </text></p>
                 </div>
             </div>
         </div>
