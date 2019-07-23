@@ -5,8 +5,39 @@
 
 .style-nave{
     background-color:#FF9D00;
+    
 }
 
 .style-nave-text{
     color: #4D452F;
+   
+}
+
+.style-rodape{
+    background-color:#F7BA00;
+}
+
+.style1{
+    color:#F7BA00;
+}
+
+.style2{
+    color:#FFD045;
+}
+.style3{
+    color:#FFBF00;
+}
+.style4{
+    color:#4D452F;
+}
+.style5{
+    color:#CC9900;
+}
+
+.principal {
+    color:  #FF9D00;
+}
+
+.secundaria {
+    color:  #4D452F;
 }
