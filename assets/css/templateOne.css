@@ -1,6 +1,7 @@
 body{
     background-color: #DCDCDC;
     font-family: "Times New Roman", Times, serif;
+    color: #4D452F;
 }
 
 .img-logo{
@@ -23,20 +24,20 @@ body{
 }
 
 .style1{
-    color:#F7BA00;
+    background-color: #F7BA00;
 }
 
 .style2{
-    color:#FFD045;
+    background-color:#FFD045;
 }
 .style3{
-    color:#FFBF00;
+    background-color:#FFBF00;
 }
 .style4{
-    color:#4D452F;
+    background-color:#4D452F;
 }
 .style5{
-    color:#CC9900;
+    background-color:#CC9900;
 }
 
 .principal {

@@ -8,6 +8,7 @@
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/bootstrap.min.css"/>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/templateOne.css"/>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/animate.css"/>
+        <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/home.css"/>
     </header>
     <body onload="date()">
         <nav class="navbar navbar-expand-lg navbar-light style-nave ">
@@ -19,16 +20,16 @@
                 <a class="navbar-brand logo-invisible" href="#"><img class="img-logo" src="<?php echo BASE_URL;?>assets/images/logo.png" ></a>
                 <ul class="navbar-nav">
                     <li class="style-nave-text">
-                        <a class="nav-link" href="#">Home<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#"><h4>Home</h4><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Curriculum<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#"><h4>Curriculum</h4><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Contact<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#"><h4>Contact</h4><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#">Blog<span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="#"><h4>Blog</h4><span class="sr-only">(current)</span></a>
                     </li>
                 </ul>
             </div>

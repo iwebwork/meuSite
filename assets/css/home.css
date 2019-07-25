@@ -1,0 +1,19 @@
+.fundo1{
+    background-image: url("../images/fundo1.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
+
+a{
+    text-decoration: none;
+    
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+noMercado{
+    color: rgb(228, 0, 43);
+}
+
