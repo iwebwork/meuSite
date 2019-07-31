@@ -11,7 +11,7 @@
             );
            
             
-            $this->loadTempleteOne('galeria',$quantidade);
+            $this->loadTempleteOne('nyknowledge',$quantidade);
 
         }
 

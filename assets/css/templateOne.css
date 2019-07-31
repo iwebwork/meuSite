@@ -1,23 +1,32 @@
 body{
-    background-color: #DCDCDC;
-    font-family: "Times New Roman", Times, serif;
     color: #4D452F;
 }
 
+.font-title{
+    font-family: "Lato", Times, serif;
+}
+
 .img-logo{
-    max-width: 150px;
-    max-height: 70px;
+    max-width: 100px;
 }
 
 .style-nave{
-    background-color:#FF9D00;
+    background-color:transparent;
     
 }
 
 .style-nave-text{
     color: #4D452F;
-   
 }
+
+.style-nave-text:hover{
+    color: #4D452F;
+    border-style: solid;
+    border-width: 5px 0px 0px 0px;
+    border-color: #4D452F;
+
+}
+
 
 .style-rodape{
     background-color:#F7BA00;
@@ -49,8 +58,13 @@ body{
 }
 
 .margin-top{
-    margin-top: 80px;
+    margin-top: 30px;
 }
+
+.rodape-shadow{
+    box-shadow: 100px 10px 4px grey;
+}
+
 
 
 @media (max-width: 991px) {

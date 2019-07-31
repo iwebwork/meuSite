@@ -6,14 +6,22 @@
 
 a{
     text-decoration: none;
-    
+    font-size: 14px;
 }
 
 a:hover{
     text-decoration: none;
 }
 
-noMercado{
+.noMercado{
     color: rgb(228, 0, 43);
+}
+
+.noMercado:hover{
+    color: rgb(228, 0, 43);
+}
+
+h6{
+    font-size: 16px;
 }
 
