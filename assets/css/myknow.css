@@ -1,0 +1,49 @@
+.border-images{
+    border-width: 50px;
+    border-color: aliceblue;
+}
+
+.imgPhp{
+    height: 125px;
+    background-image: url("../images/php.png");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.imgJava{
+    height: 125px;
+    background-image: url("../images/java2.jpeg");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.imgJavaScript{
+    height: 125px;
+    background-image: url("../images/javaScript.png");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.imgCSS{
+    height: 125px;
+    background-image: url("../images/css.png");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.imgPY{
+    height: 125px;
+    background-image: url("../images/python.jpeg");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.sizeLogo{
+    height: 180px;
+    width: 180px;
+}

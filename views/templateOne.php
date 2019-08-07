@@ -16,9 +16,10 @@
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/templateOne.css"/>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/animate.css"/>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/home.css"/>
+        <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/myknow.css"/>
     </header>
-    <body onload="date()" class="fundo1">
-        <nav class="navbar navbar-expand-lg navbar-light style-nave font-title">
+    <body onload="date()" class="">
+        <nav class="navbar navbar-expand-lg navbar-light style-nave font-title style2">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
                <img class="img-logo" src="<?php echo BASE_URL;?>assets/images/logo.png" >
             </button>
@@ -27,10 +28,10 @@
                 <a class="navbar-brand logo-invisible" href="#"><img class="img-fluid animated bounceIn slow img-logo" src="<?php echo BASE_URL;?>assets/images/logo.png" ></a>
                 <ul class="navbar-nav">
                     <li class="style-nave-text">
-                        <a id="Home" class="nav-link" href="<?php echo BASE_URL;?>"><h4>Home</h4><span class="sr-only">(current)</span></a>
+                        <a id="Home" class="nav-link" href="<?php echo BASE_URL;?>"><h4>Home page</h4><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="style-nave-text">
-                        <a id="knowledge" class="nav-link" href="#"><h4>My knowledge</h4><span class="sr-only">(current)</span></a>
+                        <a id="knowledge" class="nav-link" href="<?php echo BASE_URL;?>myknow"><h4>My knowledges</h4><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="style-nave-text">
                         <a id="Projects" class="nav-link" href="#"><h4>My Projects</h4><span class="sr-only">(current)</span></a>
@@ -44,7 +45,7 @@
     
         <?php $this->loadViewInTemplateOne($viewName, $viewData);?>
 
-        <div class="container-fluid rodape-shadow" id="rodape">
+        <div class="container-fluid margin-top style2" id="rodape">
             <div class="row d-flex justify-content-center">
                 <h4 class="font-weight-bold">Contact information</h4>
             </div>

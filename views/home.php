@@ -13,10 +13,10 @@
                 <h6 class="text-center">I have 23 years old.</h6>
             </div>
             <div class="p-2 d-flex ">
-                <h6 class="text-center">I currently work with web development, I use php, javaScript, css, bootstrap.</h6>
+                <h6 class="text-center">I currently work with web development.</h6>
             </div>
             <div class="p-2 d-flex">
-                <h6 class="text-center">I currently work with android development, I use Java.</h6>
+                <h6 class="text-center">I currently work with android development.</h6>
             </div>
         </div>
         <div class="col-md-3">
