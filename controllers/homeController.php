@@ -4,7 +4,7 @@
         public function index()
         {
             $dados = array(
-                
+               
             );
             $this->loadTempleteOne('home',$dados);
 

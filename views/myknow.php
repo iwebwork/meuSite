@@ -1,11 +1,11 @@
 
-<div class="container-fluid">
-    <div class="row d-flex justify-content-center">
+<div class="container-fluid animated bounceIn slow fundoPadrao paddingTop ">
+    <!--<div class="row d-flex justify-content-center">
         <h4 class="font-weight-bold">My knowledges</h4>
-    </div>
-    <div class="row d-flex justify-content-center">
-        <div class="col-sm-3 d-flex flex-column style2">
-            <div class="p-2 rounded-circle sizeLogo imgPhp mx-auto d-block animated bounceIn slow">
+    </div>-->
+    <div class="row d-flex justify-content-center ">
+        <div class="col-sm-3 d-flex flex-column fundo1">
+            <div class="p-2 rounded-circle sizeLogo imgPhp mx-auto d-block ">
                
             </div>
             <div class="p-2 text-center">
@@ -19,7 +19,7 @@
 
         </div>
         <div class="col-sm-3 d-flex flex-column style2">
-            <div class="p-2 rounded-circle sizeLogo border border-light imgJava mx-auto d-block animated bounceIn slow">
+            <div class="p-2 rounded-circle sizeLogo border border-light imgJava mx-auto d-block">
                
             </div>
             <div class="p-2 text-center">
@@ -34,7 +34,7 @@
 
         </div>
         <div class="col-sm-3 d-flex flex-column style2">
-            <div class="p-2 rounded-circle sizeLogo border border-light imgJavaScript mx-auto d-block animated bounceIn slow">
+            <div class="p-2 rounded-circle sizeLogo border border-light imgJavaScript mx-auto d-block">
                
             </div>
             <div class="p-2 text-center">
@@ -46,7 +46,7 @@
             </div>
         </div>
     </div>
-    <div class="row d-flex justify-content-center margin-top">
+    <div class="row d-flex justify-content-center margin-top padding-bottom">
         <div class="col-sm-3 d-flex flex-column style2">
             <div class="p-2 rounded-circle sizeLogo imgCSS mx-auto d-block border-images animated bounceIn slow">
                

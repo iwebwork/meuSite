@@ -19,13 +19,13 @@
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/myknow.css"/>
     </header>
     <body onload="date()" class="">
-        <nav class="navbar navbar-expand-lg navbar-light style-nave font-title style2">
+        <nav class="navbar navbar-expand-lg navbar-light style-nave font-title">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
                <img class="img-logo" src="<?php echo BASE_URL;?>assets/images/logo.png" >
             </button>
 
             <div class="collapse navbar-collapse d-flex justify-content-center" id="navbarTogglerDemo03">
-                <a class="navbar-brand logo-invisible" href="#"><img class="img-fluid animated bounceIn slow img-logo" src="<?php echo BASE_URL;?>assets/images/logo.png" ></a>
+                <a href="<?php echo BASE_URL;?>" class="navbar-brand logo-invisible" href="#"><img class="img-fluid animated bounceIn slow img-logo" src="<?php echo BASE_URL;?>assets/images/logo.png" ></a>
                 <ul class="navbar-nav">
                     <li class="style-nave-text">
                         <a id="Home" class="nav-link" href="<?php echo BASE_URL;?>"><h4>Home page</h4><span class="sr-only">(current)</span></a>
@@ -45,12 +45,12 @@
     
         <?php $this->loadViewInTemplateOne($viewName, $viewData);?>
 
-        <div class="container-fluid margin-top style2" id="rodape">
+        <div class="container-fluid margin-top" id="rodape">
             <div class="row d-flex justify-content-center">
                 <h4 class="font-weight-bold">Contact information</h4>
             </div>
             <div class="row d-flex justify-content-center">
-                <div class="col-sm-6 d-flex flex-column">
+                <div class="col-sm-5 d-flex flex-column">
                     <div class="p-2 d-flex ">
                         - Igor Siqueira da Silva
                     </div>
@@ -59,6 +59,11 @@
                     </div>
                     <div class="p-2 d-flex ">
                         - Telephone:+55 (31)9 9403-2335
+                    </div>
+                </div>
+                <div clas="col-sm-5 d-flex flex-column">
+                    <div class="p-2 d-flex ">
+                        - My Curriculum
                     </div>
                 </div>
             </div>
@@ -91,7 +96,7 @@
             </div>
             <div class="row">
                 <div class="col-sm">
-                    <p class="text-center"> All rights reserved @<text id="data"> </text></p>
+                    <p class="text-center"> Igor Siqueira da Silva - All rights reserved @<text id="data"> </text></p>
                 </div>
             </div>
         </div>

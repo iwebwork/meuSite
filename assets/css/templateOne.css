@@ -1,5 +1,12 @@
 body{
     color: #4D452F;
+    background-image: url("../images/fundo1.jpg");
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+}
+
+.fundoPadrao{
+    background-color: antiquewhite;
 }
 
 .font-title{
@@ -25,6 +32,20 @@ body{
     border-width: 5px 0px 0px 0px;
     border-color: #4D452F;
 
+}
+
+.style-nave-text:active{
+    color: #4D452F;
+    border-style: solid;
+    border-width: 5px 0px 0px 0px;
+    border-color: #4D452F;
+
+}
+
+.style-nave-active{
+    border-style: solid;
+    border-width: 5px 0px 0px 0px;
+    border-color: #4D452F;
 }
 
 
@@ -61,10 +82,17 @@ body{
     margin-top: 30px;
 }
 
+.paddingTop{
+    padding-top: 30px;
+}
+
+.padding-bottom{
+    padding-bottom: 30px;
+}
+
 .rodape-shadow{
     box-shadow: 100px 10px 4px grey;
 }
-
 
 
 @media (max-width: 991px) {
