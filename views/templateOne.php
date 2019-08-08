@@ -17,6 +17,7 @@
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/animate.css"/>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/home.css"/>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/myknow.css"/>
+        <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/myprojects.css"/>
     </header>
     <body onload="date()" class="">
         <nav class="navbar navbar-expand-lg navbar-light style-nave font-title">
@@ -34,7 +35,7 @@
                         <a id="knowledge" class="nav-link" href="<?php echo BASE_URL;?>myknow"><h4>My knowledges</h4><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="style-nave-text">
-                        <a id="Projects" class="nav-link" href="#"><h4>My Projects</h4><span class="sr-only">(current)</span></a>
+                        <a id="Projects" class="nav-link" href="<?php echo BASE_URL;?>myprojects"><h4>My Projects</h4><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="style-nave-text">
                         <a id="Blog" class="nav-link" href="#"><h4>Blog</h4><span class="sr-only">(current)</span></a>

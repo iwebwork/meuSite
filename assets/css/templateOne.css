@@ -3,6 +3,8 @@ body{
     background-image: url("../images/fundo1.jpg");
     background-repeat: no-repeat, repeat;
     background-size: cover;
+    font-family: Helvetica,Arial, sans-serif;
+    font-size: 14px;
 }
 
 .fundoPadrao{

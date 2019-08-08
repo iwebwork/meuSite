@@ -1,0 +1,12 @@
+.imgNoMercado{
+    max-height: 185px;
+    background-image: url("../images/nomercado.png");
+    background-repeat: no-repeat, repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.sizeLogo2{
+    height: 180px;
+    width: 180px;
+}
