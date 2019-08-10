@@ -9,7 +9,7 @@
     <div class="row d-flex justify-content-around">
         <div class="col-sm-4 d-flex flex-column">
             <div class="p-2 text-center">
-                Sobre
+                <h5>Sobre</h5>
             </div>
             <div class="p-2 text-center">
                 Somos uma start-up com o objetivo de levar praticidade para voçê realizar suas compras.
@@ -22,7 +22,7 @@
         </div>
         <div class="col-sm-4 d-flex flex-column">
             <div class="p-2 text-center">
-                Ferramentas
+                <h5>Ferramentas</h5>
             </div>
             <div class="p-2 text-center">
                 Sou responsavel pelo desenvolvimento web e do aplicativo android. Além de tambem prestar suporte ao usuario.
@@ -33,7 +33,7 @@
     <div class="row">
         <div class="col-sm">
             <div class="p-2 d-flex justify-content-center ">
-                <a target="_blank" href="http://nomercadosoft.com.br/"><h5>Visite-nos para descobrir um pouco mais!</h5></a>
+                <a target="_blank" href="http://nomercadosoft.com.br/"><h5>Visit us to find out more!</h5></a>
             </div>
         </div>
     </div>
@@ -50,7 +50,7 @@
     <div class="row d-flex justify-content-around">
         <div class="col-sm-4 d-flex flex-column">
             <div class="p-2 text-center">
-                Sobre
+                <h5>Sobre</h5>
             </div>
             <div class="p-2 text-center">
                 E um sistema para pet-shop, com ele você pode fazer o controle de seus clientes, cadastrar, alterar e deletar os dados, tanto dos donos como tambem de seus pets.
@@ -65,7 +65,7 @@
         </div>
         <div class="col-sm-4 d-flex flex-column">
             <div class="p-2 text-center">
-                Ferramentas
+                <h5>Ferramentas</h5>
             </div>
             <div class="p-2 text-center">
                 Desenvolvi o sistema com HTML5, CSS3, JavaScript, Ajax, Bootstrap e PHP7.
@@ -75,7 +75,7 @@
     <div class="row">
         <div class="col-sm">
             <div class="p-2 d-flex justify-content-center ">
-                <a target="_blank" href="#"><h5>Visite-nos para descobrir um pouco mais!</h5></a>
+                <!--<a target="_blank" href="#"><h5>Visite-nos para descobrir um pouco mais!</h5></a>-->
             </div>
         </div>
     </div>
@@ -92,7 +92,7 @@
     <div class="row d-flex justify-content-around">
         <div class="col-sm-4 d-flex flex-column">
             <div class="p-2 text-center">
-                Sobre
+                <h5>Sobre</h5>
             </div>
             <div class="p-2 text-center">
                 E um sistema feito para facilitar quando queremos fazer uma doação, porem não conhecemos nenhuma instituição perto.
@@ -105,7 +105,7 @@
         </div>
         <div class="col-sm-4 d-flex flex-column">
             <div class="p-2 text-center">
-                Ferramentas
+                <h5>Ferramentas</h5>
             </div>
             <div class="p-2 text-center">
                 Desenvolvemos este sistema em grupo, para um trabalho escolar, fiquei responsavel pelo desenvolvimento Back-End utilizando PHP7.
@@ -115,7 +115,7 @@
     <div class="row">
         <div class="col-sm">
             <div class="p-2 d-flex justify-content-center ">
-                <a target="_blank" href="#"><h5>Visite-nos para descobrir um pouco mais!</h5></a>
+                <!--<a target="_blank" href="#"><h5>Visite-nos para descobrir um pouco mais!</h5></a>-->
             </div>
         </div>
     </div>

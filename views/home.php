@@ -18,6 +18,9 @@
             <div class="p-2 d-flex">
                 <h6 class="text-center">I currently work with android development.</h6>
             </div>
+            <div class="p-2 d-flex">
+                <h6 class="text-center">I am currently studying information systems at UNA-Contagem, and I am in the fifth semester.</h6>
+            </div>
         </div>
         <div class="col-sm-3 ">
             <img src="<?php echo BASE_URL?>assets/images/1486361087835.jpg" class="img-fluid" alt="Responsive image">
