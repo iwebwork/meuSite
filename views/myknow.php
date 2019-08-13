@@ -1,5 +1,5 @@
 
-<div class="container-fluid animated bounceIn slow style3 paddingTop ">
+<div class="container-fluid animated margin-top bounceIn slow style3 paddingTop ">
     <!--<div class="row d-flex justify-content-center">
         <h4 class="font-weight-bold">My knowledges</h4>
     </div>-->
@@ -12,7 +12,7 @@
                 PHP
             </div>
             <div class="p-2">
-                Tenho solidos conhecimentos de php, e trabalho orientado a objetos.
+                I have solid knowledge of php, and object oriented work.
             </div>
         </div>
         <div class="col-sm-1">
@@ -26,7 +26,7 @@
                 Java
             </div>
             <div class="p-2">
-                Tenho solidos conhecimentos de java, e trabalho orientado a objetos.
+                I have solid knowledge of java, and object oriented work.
                 
             </div>
         </div>
@@ -41,7 +41,7 @@
                 JavaScript
             </div>
             <div class="p-2">
-                Tenho solidos conhecimentos de JavaScript, para o Front-End, juntamente com o framework Ajax.
+                I have solid knowledge of JavaScript for the Front End, along with the Ajax framework.
                 
             </div>
         </div>
@@ -55,7 +55,7 @@
                 CSS
             </div>
             <div class="p-2">
-                Tenho solidos conhecimentos de CSS, juntamente com o framework Bootstrap.
+                I have solid knowledge of CSS along with the Bootstrap framework.
                 
             </div>
         </div>
@@ -70,7 +70,7 @@
                 Python
             </div>
             <div class="p-2">
-                Atualmente estou estudando python para posteriormente aprender machine learning.
+                I am currently studying python to later learn machine learning.
                 
             </div>
         </div>

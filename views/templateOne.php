@@ -20,33 +20,33 @@
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/myprojects.css"/>
     </header>
     <body onload="date()" class="">
-        <nav class="navbar navbar-expand-lg navbar-light style-nave font-title">
+        <nav class="navbar navbar-expand-lg navbar-light style-nave font-title fudoImg">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
                <img class="img-logo" src="<?php echo BASE_URL;?>assets/images/logo.png" >
             </button>
 
             <div class="collapse navbar-collapse d-flex justify-content-center" id="navbarTogglerDemo03">
                 <a href="<?php echo BASE_URL;?>" class="navbar-brand logo-invisible" href="#"><img class="img-fluid animated bounceIn slow img-logo" src="<?php echo BASE_URL;?>assets/images/logo.png" ></a>
-                <ul class="navbar-nav">
-                    <li class="style-nave-text">
-                        <a id="Home" class="nav-link" href="<?php echo BASE_URL;?>"><h4>Home page</h4><span class="sr-only">(current)</span></a>
+                <ul class="navbar-nav" id="navUl">
+                    <li class="style-nave-text" data-id="1">
+                        <a class="nav-link" href="<?php echo BASE_URL;?>"><h4>Home page</h4><span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="style-nave-text">
-                        <a id="knowledge" class="nav-link" href="<?php echo BASE_URL;?>myknow"><h4>My knowledges</h4><span class="sr-only">(current)</span></a>
+                    <li class="style-nave-text" data-id="2">
+                        <a class="nav-link" href="<?php echo BASE_URL;?>myknow"><h4>My knowledges</h4><span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="style-nave-text">
-                        <a id="Projects" class="nav-link" href="<?php echo BASE_URL;?>myprojects"><h4>My Projects</h4><span class="sr-only">(current)</span></a>
+                    <li class="style-nave-text" data-id="3">
+                        <a class="nav-link" href="<?php echo BASE_URL;?>myprojects"><h4>My Projects</h4><span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="style-nave-text">
-                        <a id="Blog" class="nav-link" href="#"><h4>Blog</h4><span class="sr-only">(current)</span></a>
-                    </li>
+                    <!--<li class="style-nave-text" data-id="4">
+                        <a class="nav-link" href="#"><h4>Blog</h4><span class="sr-only">(current)</span></a>
+                    </li>-->
                 </ul>
             </div>
         </nav>
     
         <?php $this->loadViewInTemplateOne($viewName, $viewData);?>
 
-        <div class="container-fluid margin-top" id="rodape">
+        <div class="container-fluid margin-top shadow-lg bg-light rounded" id="rodape">
             <div class="row d-flex justify-content-center">
                 <h4 class="font-weight-bold">Contact information</h4>
             </div>

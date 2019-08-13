@@ -9,10 +9,10 @@
     <div class="row d-flex justify-content-around">
         <div class="col-sm-4 d-flex flex-column">
             <div class="p-2 text-center">
-                <h5>Sobre</h5>
+                <h5>About</h5>
             </div>
             <div class="p-2 text-center">
-                Somos uma start-up com o objetivo de levar praticidade para voçê realizar suas compras.
+                We are a start-up aiming to bring practicality to you to make your purchases.
             </div>
         </div>
         <div class="col-sm-4 d-flex justify-content-center">
@@ -22,11 +22,11 @@
         </div>
         <div class="col-sm-4 d-flex flex-column">
             <div class="p-2 text-center">
-                <h5>Ferramentas</h5>
+                <h5>Tools</h5>
             </div>
             <div class="p-2 text-center">
-                Sou responsavel pelo desenvolvimento web e do aplicativo android. Além de tambem prestar suporte ao usuario.
-                Utilizei Java para o aplicativo, desenvolvi tambem o site, utilizei HTML5, CSS3, Bootstrap, e Ajax.
+                I am responsible for web and android application development. In addition to providing support to the user.
+                I used Java for the application, also developed the site, used HTML5, CSS3, Bootstrap, and Ajax.
             </div>
         </div>
     </div>
@@ -50,12 +50,12 @@
     <div class="row d-flex justify-content-around">
         <div class="col-sm-4 d-flex flex-column">
             <div class="p-2 text-center">
-                <h5>Sobre</h5>
+                <h5>About</h5>
             </div>
             <div class="p-2 text-center">
-                E um sistema para pet-shop, com ele você pode fazer o controle de seus clientes, cadastrar, alterar e deletar os dados, tanto dos donos como tambem de seus pets.
-                Alem de controlar o dados, voçê tambem pode cadastrar seus eventos, o sistema te notifica por email quando chegar a hora.
-                Mesmo que voçê não possa ver o email, tambem pode consultar os eventos em um calendario em tempo real, alem do sistema mostrar na tela quais os eventos do dia.
+                And a system for pet-shop, with it you can control your customers, register, change and delete data, both owners and their pets.
+                In addition to controlling the data, you can also register your events, the system notifies you by email when the time comes.
+                Even if you can't see the email, you can also view the events on a real-time calendar, and the system will show you on the day's events.
             </div>
         </div>
         <div class="col-sm-4 d-flex justify-content-center">
@@ -65,10 +65,10 @@
         </div>
         <div class="col-sm-4 d-flex flex-column">
             <div class="p-2 text-center">
-                <h5>Ferramentas</h5>
+                <h5>Tools</h5>
             </div>
             <div class="p-2 text-center">
-                Desenvolvi o sistema com HTML5, CSS3, JavaScript, Ajax, Bootstrap e PHP7.
+                I developed the system with HTML5, CSS3, JavaScript, Ajax, Bootstrap and PHP7.
             </div>
         </div>
     </div>
@@ -92,10 +92,10 @@
     <div class="row d-flex justify-content-around">
         <div class="col-sm-4 d-flex flex-column">
             <div class="p-2 text-center">
-                <h5>Sobre</h5>
+                <h5>About</h5>
             </div>
             <div class="p-2 text-center">
-                E um sistema feito para facilitar quando queremos fazer uma doação, porem não conhecemos nenhuma instituição perto.
+                It's a system designed to make it easy when we want to make a donation, but we don't know any institutions nearby.
             </div>
         </div>
         <div class="col-sm-4 d-flex justify-content-center">
@@ -105,10 +105,10 @@
         </div>
         <div class="col-sm-4 d-flex flex-column">
             <div class="p-2 text-center">
-                <h5>Ferramentas</h5>
+                <h5>Tools</h5>
             </div>
             <div class="p-2 text-center">
-                Desenvolvemos este sistema em grupo, para um trabalho escolar, fiquei responsavel pelo desenvolvimento Back-End utilizando PHP7.
+            We developed this system in group, for a school work, I was responsible for the Back-End development using PHP7.
             </div>
         </div>
     </div>
