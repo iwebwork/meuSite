@@ -10,3 +10,23 @@
     height: 180px;
     width: 180px;
 }
+
+.doefacil{
+    margin-top: 35px;
+}
+
+.imgDoeFacil{
+    background-color: #fff;
+    background-position: center;
+    background-size: cover;
+}
+
+.imgAgComercial{
+    background-color: #428bca;
+    color: #fff;
+}
+
+.agComercial{
+    margin-top: 60px;
+    margin-left: 5px;
+}

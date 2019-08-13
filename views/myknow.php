@@ -20,7 +20,7 @@
         </div>
         <div class="col-sm-3 d-flex flex-column fundo1">
             <div class="p-2 rounded-circle sizeLogo border border-light imgJava mx-auto d-block">
-               
+               <!--<img class="img-fluid mx-auto d-block" alt="Responsive image" src="<?php //echo BASE_URL;?>assets/images/java2.png"/>-->
             </div>
             <div class="p-2 text-center">
                 Java

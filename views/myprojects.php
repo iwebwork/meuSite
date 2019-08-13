@@ -59,8 +59,8 @@
             </div>
         </div>
         <div class="col-sm-4 d-flex justify-content-center">
-            <div class="p-2 rounded-circle sizeLogo2 border border-light  mx-auto d-block">
-               
+            <div class="p-2 rounded-circle sizeLogo2 border border-light  mx-auto d-block imgAgComercial">
+               <h5 class="agComercial">AgComercial</h5>
             </div>
         </div>
         <div class="col-sm-4 d-flex flex-column">
@@ -99,8 +99,8 @@
             </div>
         </div>
         <div class="col-sm-4 d-flex justify-content-center">
-            <div class="p-2 rounded-circle sizeLogo2 border border-light  mx-auto d-block">
-               
+            <div class="p-2 rounded-circle sizeLogo2 imgDoeFacil">
+                <img class="doefacil img-fluid mx-auto d-block" alt="Responsive image" src="<?php echo BASE_URL;?>assets/images/doefacil.png" />
             </div>
         </div>
         <div class="col-sm-4 d-flex flex-column">
