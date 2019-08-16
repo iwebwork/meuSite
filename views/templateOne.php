@@ -1,10 +1,10 @@
-<html>
+<html !DOCTYPE>
     <header>
         <title>Meu site</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-        <link rel="shortcut icon" href="<?php echo BASE_URL;?>assets/images/logo.png"/>
+        <link rel="shortcut icon" type="image/x-icon" href="<?php echo BASE_URL;?>assets/images/logo.png"/>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/bootstrap.min.css"/>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/mdb.min.css"/>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/mdb.css"/>
@@ -19,7 +19,7 @@
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/myknow.css"/>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/myprojects.css"/>
     </header>
-    <body onload="date()" class="">
+    <body onload="date()">
         <nav class="navbar navbar-expand-lg navbar-light style-nave font-title fudoImg">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
                <img class="img-logo" src="<?php echo BASE_URL;?>assets/images/logo.png" >

@@ -21,5 +21,15 @@
         </div>
         
     </div>
+    <div class="row d-flex justify-content-center margin-top">
+        <div class="col-sm-6">
+            <p>
+                "It is not the diploma that trains professionals. Only the love of the profession can do it, even to those who have not had formal college education."
+            </p>
+            <p>
+                Jacqueline Collodo Gomes(<a href="https://www.pensador.com/frases_profissionais/">https://www.pensador.com/frases_profissionais</a> - 2019/08/15)
+            </p>
+        </div>
+    </div>
 </div>
 
