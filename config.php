@@ -6,14 +6,14 @@
     //Informações para o banco interno
     if(ENVIRONMENT == 'development'){
         define("BASE_URL","http://localhost/meuSite/");
-        $config['dbname'] = 'testeMVC';
+        $config['dbname'] = '';
         $config['host'] = '127.0.0.1';
         $config['dbuser'] = 'root';
         $config['dbpass'] = '';
     }else{
         //Informações para o banco externo
         define("BASE_URL","http://www.meusite.com/");
-        $config['dbname'] = 'testeMVC';
+        $config['dbname'] = '';
         $config['host'] = '127.0.0.1';
         $config['dbuser'] = 'root';
         $config['dbpass'] = '';

@@ -64,8 +64,8 @@
                 </div>
                 <div clas="col-sm-5 d-flex flex-column">
                     <div class="p-2 d-flex ">
-                        <a href="<?php echo BASE_URL?>assets/arquivos diversos/Currículo de TI - Igor Siqueira da Silva.pdf" download>
-                            <h6>- My Curriculum</h6>
+                        <a class="btn btn-sm btn-block" href="<?php echo BASE_URL?>assets/arquivos diversos/Currículo de TI - Igor Siqueira da Silva.pdf" download>
+                            My Curriculum
                         </a>
                     </div>
                 </div>

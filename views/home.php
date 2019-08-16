@@ -1,4 +1,4 @@
-<div class="container-fluid style3 margin-top paddingTop animated bounceIn slow padding-bottom" onload="navSelectHome()">
+<div class="container-fluid margin-top paddingTop animated bounceIn slow padding-bottom" onload="navSelectHome()">
     <div class="row d-flex justify-content-center ">
         <div class="col-sm-6 ">
             <h4 class="font-weight-bold text-center" ">Web And Android Developer</h4>

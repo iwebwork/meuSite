@@ -1,4 +1,4 @@
-<div class="container-fluid style3 margin-top paddingTop padding-bottom animated bounceIn slow">
+<div class="container-fluid margin-top paddingTop padding-bottom animated bounceIn slow">
     <div class="row ">
         <div class="col-sm">
             <div class="p-2 d-flex justify-content-center ">
@@ -30,56 +30,15 @@
             </div>
         </div>
     </div>
-    <div class="row">
-        <div class="col-sm">
+    <div class="row d-flex justify-content-center">
+        <div class="col-sm-3">
             <div class="p-2 d-flex justify-content-center ">
-                <a target="_blank" href="http://nomercadosoft.com.br/"><h5>Visit us to find out more!</h5></a>
+                <a class="btn btn-sm btn-block" target="_blank" href="http://nomercadosoft.com.br/"><h5>Visit us to find out more!</h5></a>
             </div>
         </div>
     </div>
 </div>
 
-<div class="container-fluid style3 margin-top paddingTop padding-bottom animated bounceIn slow">
-    <div class="row ">
-        <div class="col-sm">
-            <div class="p-2 d-flex justify-content-center ">
-                <h4>AgComercial</h4>
-            </div>
-        </div>
-    </div>
-    <div class="row d-flex justify-content-around">
-        <div class="col-sm-4 d-flex flex-column">
-            <div class="p-2 text-center">
-                <h5>About</h5>
-            </div>
-            <div class="p-2 text-center">
-                And a system for pet-shop, with it you can control your customers, register, change and delete data, both owners and their pets.
-                In addition to controlling the data, you can also register your events, the system notifies you by email when the time comes.
-                Even if you can't see the email, you can also view the events on a real-time calendar, and the system will show you on the day's events.
-            </div>
-        </div>
-        <div class="col-sm-4 d-flex justify-content-center">
-            <div class="p-2 rounded-circle sizeLogo2 border border-light  mx-auto d-block imgAgComercial">
-               <h5 class="agComercial">AgComercial</h5>
-            </div>
-        </div>
-        <div class="col-sm-4 d-flex flex-column">
-            <div class="p-2 text-center">
-                <h5>Tools</h5>
-            </div>
-            <div class="p-2 text-center">
-                I developed the system with HTML5, CSS3, JavaScript, Ajax, Bootstrap and PHP7.
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="col-sm">
-            <div class="p-2 d-flex justify-content-center ">
-                <!--<a target="_blank" href="#"><h5>Visite-nos para descobrir um pouco mais!</h5></a>-->
-            </div>
-        </div>
-    </div>
-</div>
 
 <div class="container-fluid style3 margin-top paddingTop padding-bottom animated bounceIn slow">
     <div class="row ">
@@ -109,6 +68,47 @@
             </div>
             <div class="p-2 text-center">
             We developed this system in group, for a school work, I was responsible for the Back-End development using PHP7.
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm">
+            <div class="p-2 d-flex justify-content-center ">
+                <!--<a target="_blank" href="#"><h5>Visite-nos para descobrir um pouco mais!</h5></a>-->
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid margin-top paddingTop padding-bottom animated bounceIn slow">
+    <div class="row ">
+        <div class="col-sm">
+            <div class="p-2 d-flex justify-content-center ">
+                <h4 class="text-center">AgComercial</h4>
+            </div>
+        </div>
+    </div>
+    <div class="row d-flex justify-content-around">
+        <div class="col-sm-4 d-flex flex-column">
+            <div class="p-2 text-center">
+                <h5>About</h5>
+            </div>
+            <div class="p-2 text-center">
+                And a system for pet-shop, with it you can control your customers, register, change and delete data, both owners and their pets.
+                In addition to controlling the data, you can also register your events, the system notifies you by email when the time comes.
+                Even if you can't see the email, you can also view the events on a real-time calendar, and the system will show you on the day's events.
+            </div>
+        </div>
+        <div class="col-sm-4 d-flex justify-content-center">
+            <div class="p-2 rounded-circle sizeLogo2 border border-light  mx-auto d-block imgAgComercial">
+               <h5 class="agComercial">AgComercial</h5>
+            </div>
+        </div>
+        <div class="col-sm-4 d-flex flex-column">
+            <div class="p-2 text-center">
+                <h5>Tools</h5>
+            </div>
+            <div class="p-2 text-center">
+                I developed the system with HTML5, CSS3, JavaScript, Ajax, Bootstrap and PHP7.
             </div>
         </div>
     </div>
