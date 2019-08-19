@@ -12,17 +12,17 @@
 }
 
 .imgJava{
-    height: 125px;
     background-image: url("../images/java.png");
     background-repeat: no-repeat, repeat;
-    background-size: cover;
+    background-position: auto;
+    background-size: 135px 178px;
 }
 
 .imgJavaScript{
     height: 125px;
     background-image: url("../images/javaScript.png");
     background-repeat: no-repeat, repeat;
-    background-size: cover;
+    background-size: 135px 160px;
 }
 
 .imgCSS{
@@ -37,8 +37,8 @@
     height: 125px;
     background-image: url("../images/python.jpeg");
     background-repeat: no-repeat, repeat;
-    background-position: center;
-    background-size: cover;
+    background-position: auto;
+    background-size: 133px 199px;
 }
 
 .sizeLogo{
