@@ -1,5 +1,5 @@
 <html !DOCTYPE>
-    <header>
+    <head>
         <title>Meu site</title>
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -18,7 +18,7 @@
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/home.css"/>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/myknow.css"/>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/myprojects.css"/>
-    </header>
+    </head>
     <body onload="date()">
         <nav class="navbar navbar-expand-lg navbar-light style-nave font-title fudoImg">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
