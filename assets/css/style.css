@@ -17,8 +17,9 @@ a{
 }
 a:hover {
     opacity: 0.8;
-    color:#ff5400;
+    color:#4D452F;
     text-decoration:none;
+    background-color: #F7BA00;
 }
 .kpx_login .kpx_authTitle {
     text-align: center;
