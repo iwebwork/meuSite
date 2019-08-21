@@ -41,7 +41,7 @@
                 JavaScript
             </div>
             <div class="p-2 text-center">
-                I have solid knowledge of JavaScript for the Front End, along with the Ajax framework.
+                I have solid knowledge of JavaScript for the Front End, along with the JQuery framework.
                 
             </div>
         </div>

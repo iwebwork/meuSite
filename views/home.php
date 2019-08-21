@@ -8,10 +8,9 @@
         <div class="col-sm-3 d-flex flex-column">
             <div class="p-2 d-flex">
                 <h6 class="">
-                    My name is Igor Siqueira da Silva. I have 23 years old.<br><br>
-                    I currently work with web development.<br><br>
-                    I currently work with android development.<br><br>
-                    I am currently studying information systems at UNA-Contagem, and I am in the fifth semester.
+                    My name is Igor Siqueira da Silva. I'm 23 years old.<br><br>
+                    I currently work with Web Development and Android Development.<br><br>
+                    I'm currently studying Information Systems at UNA-Contagem, and I am in the fifth semester.
                 </h6>
             </div>
             

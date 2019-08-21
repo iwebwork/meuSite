@@ -32,7 +32,7 @@
                         <a class="nav-link" href="<?php echo BASE_URL;?>"><h4>Home page</h4><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="style-nave-text" data-id="2">
-                        <a class="nav-link" href="<?php echo BASE_URL;?>myknow"><h4>My knowledges</h4><span class="sr-only">(current)</span></a>
+                        <a class="nav-link" href="<?php echo BASE_URL;?>myknow"><h4>My knowledge</h4><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="style-nave-text" data-id="3">
                         <a class="nav-link" href="<?php echo BASE_URL;?>myprojects"><h4>My Projects</h4><span class="sr-only">(current)</span></a>
