@@ -11,7 +11,7 @@
             <div class="p-2 text-center">
                 PHP
             </div>
-            <div class="p-2">
+            <div class="p-2 text-center">
                 I have solid knowledge of php, and object oriented work.
             </div>
         </div>
@@ -25,7 +25,7 @@
             <div class="p-2 text-center">
                 Java
             </div>
-            <div class="p-2">
+            <div class="p-2 text-center">
                 I have solid knowledge of java, and object oriented work.
                 
             </div>
@@ -40,7 +40,7 @@
             <div class="p-2 text-center">
                 JavaScript
             </div>
-            <div class="p-2">
+            <div class="p-2 text-center">
                 I have solid knowledge of JavaScript for the Front End, along with the Ajax framework.
                 
             </div>
@@ -69,7 +69,7 @@
             <div class="p-2 text-center">
                 Python
             </div>
-            <div class="p-2">
+            <div class="p-2 text-center">
                 I am currently studying python to later learn machine learning.
                 
             </div>
