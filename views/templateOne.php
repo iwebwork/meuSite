@@ -29,13 +29,13 @@
                 <a href="<?php echo BASE_URL;?>" class="navbar-brand logo-invisible" href="#"><img class="img-fluid animated bounceIn slow img-logo" src="<?php echo BASE_URL;?>assets/images/logo.png" ></a>
                 <ul class="navbar-nav" id="navUl">
                     <li class="style-nave-text" data-id="1">
-                        <a class="nav-link" href="<?php echo BASE_URL;?>"><h4>Home page</h4><span class="sr-only">(current)</span></a>
+                        <a class="nav-link a-clear" href="<?php echo BASE_URL;?>"><h4>Home page</h4><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="style-nave-text" data-id="2">
-                        <a class="nav-link" href="<?php echo BASE_URL;?>myknow"><h4>My knowledge</h4><span class="sr-only">(current)</span></a>
+                        <a class="nav-link a-clear" href="<?php echo BASE_URL;?>myknow"><h4>My knowledge</h4><span class="sr-only">(current)</span></a>
                     </li>
                     <li class="style-nave-text" data-id="3">
-                        <a class="nav-link" href="<?php echo BASE_URL;?>myprojects"><h4>My Projects</h4><span class="sr-only">(current)</span></a>
+                        <a class="nav-link a-clear" href="<?php echo BASE_URL;?>myprojects"><h4>My Projects</h4><span class="sr-only">(current)</span></a>
                     </li>
                     <!--<li class="style-nave-text" data-id="4">
                         <a class="nav-link" href="#"><h4>Blog</h4><span class="sr-only">(current)</span></a>

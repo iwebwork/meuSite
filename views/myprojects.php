@@ -74,13 +74,13 @@
     <div class="row d-flex justify-content-center">
         <div class="col-sm-5">
             <div class="p-2 d-flex justify-content-center ">
-                <a class="btn btn-sm btn-block" target="_blank" href="<?php echo BASE_URL;?>projects/pi2019PrimeiroSemestre-master/index.php"><h5>Visit to find out more! - Version User</h5></a>
+                <a class="btn btn-sm btn-block a-clear" target="_blank" href="<?php echo BASE_URL;?>projects/pi2019PrimeiroSemestre-master/index.php"><h5>Visit to find out more! - User Version</h5></a>
             </div>
         </div>
 
         <div class="col-sm-5">
             <div class="p-2 d-flex justify-content-center ">
-                <a class="btn btn-sm btn-block" target="_blank" href="<?php echo BASE_URL;?>projects/pi2019PrimeiroSemestre-master/admin/index.php"><h5>Visit to find out more! - Version Admin</h5></a>
+                <a class="btn btn-sm btn-block a-clear" target="_blank" href="<?php echo BASE_URL;?>projects/pi2019PrimeiroSemestre-master/admin/index.php"><h5>Visit to find out more! - Administrative Version</h5></a>
             </div>
         </div>
     </div>

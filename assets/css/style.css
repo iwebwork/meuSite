@@ -19,8 +19,16 @@ a:hover {
     opacity: 0.8;
     color:#4D452F;
     text-decoration:none;
-    background-color: #FF9D00;
+    background-color: #FFD166;
 }
+
+.a-clear:hover{
+    opacity: 0.8;
+    color:#4D452F;
+    text-decoration:none;
+    background-color: #f8f9fa;
+}
+
 .kpx_login .kpx_authTitle {
     text-align: center;
     line-height: 300%;
