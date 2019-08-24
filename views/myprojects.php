@@ -71,10 +71,16 @@
             </div>
         </div>
     </div>
-    <div class="row">
-        <div class="col-sm">
+    <div class="row d-flex justify-content-center">
+        <div class="col-sm-5">
             <div class="p-2 d-flex justify-content-center ">
-                <!--<a target="_blank" href="#"><h5>Visite-nos para descobrir um pouco mais!</h5></a>-->
+                <a class="btn btn-sm btn-block" target="_blank" href="<?php echo BASE_URL;?>projects/pi2019PrimeiroSemestre-master/index.php"><h5>Visit to find out more! - Version User</h5></a>
+            </div>
+        </div>
+
+        <div class="col-sm-5">
+            <div class="p-2 d-flex justify-content-center ">
+                <a class="btn btn-sm btn-block" target="_blank" href="<?php echo BASE_URL;?>projects/pi2019PrimeiroSemestre-master/admin/index.php"><h5>Visit to find out more! - Version Admin</h5></a>
             </div>
         </div>
     </div>
@@ -112,10 +118,10 @@
             </div>
         </div>
     </div>
-    <div class="row">
-        <div class="col-sm">
+    <div class="row d-flex justify-content-center">
+        <div class="col-sm-3">
             <div class="p-2 d-flex justify-content-center ">
-                <!--<a target="_blank" href="#"><h5>Visite-nos para descobrir um pouco mais!</h5></a>-->
+                <a class="btn btn-sm btn-block" target="_blank" href="<?php echo BASE_URL;?>projects/agComercial-versao1.0/index.php"><h5>Visit to find out more!</h5></a>
             </div>
         </div>
     </div>
