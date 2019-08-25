@@ -67,7 +67,7 @@
                 <h5>Tools</h5>
             </div>
             <div class="p-2 text-center">
-            We developed this system in group, for a school work, I was responsible for the Back-End development using PHP7.
+                We developed this system in group, for a school work, I was responsible for the Back-End development using PHP7.
             </div>
         </div>
     </div>
@@ -82,6 +82,14 @@
             <div class="p-2 d-flex justify-content-center ">
                 <a class="btn btn-sm btn-block a-clear" target="_blank" href="<?php echo BASE_URL;?>projects/pi2019PrimeiroSemestre-master/admin/index.php"><h5>Visit to find out more! - Administrative Version</h5></a>
             </div>
+        </div>
+    </div>
+    <div class="row d-flex justify-content-center">
+        <div class="col-sm-4">
+            <div class="p-2 text-center">
+                NOTE: If you request login use - E-Mail: igor@gmail.com, Password: teste
+            </div>
+              
         </div>
     </div>
 </div>
@@ -123,6 +131,14 @@
             <div class="p-2 d-flex justify-content-center ">
                 <a class="btn btn-sm btn-block" target="_blank" href="<?php echo BASE_URL;?>projects/agComercial-versao1.0/index.php"><h5>Visit to find out more!</h5></a>
             </div>
+        </div>
+    </div>
+    <div class="row d-flex justify-content-center">
+        <div class="col-sm-4">
+            <div class="p-2 text-center">
+                NOTE: If you request login use - E-Mail: igor@gmail.com, Password: teste
+            </div>
+              
         </div>
     </div>
 </div>
