@@ -1,5 +1,6 @@
 <?php
- class model{
+ namespace Core;
+ class Model{
 
     protected $pdo;
 
