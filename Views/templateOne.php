@@ -37,9 +37,9 @@
                     <li class="style-nave-text" data-id="3">
                         <a class="nav-link a-clear" href="<?php echo BASE_URL;?>myprojects"><h4>My Projects</h4><span class="sr-only">(current)</span></a>
                     </li>
-                    <!--<li class="style-nave-text" data-id="4">
-                        <a class="nav-link" href="#"><h4>Blog</h4><span class="sr-only">(current)</span></a>
-                    </li>-->
+                    <li class="style-nave-text" data-id="4">
+                        <a class="nav-link" href="<?php echo BASE_URL;?>meuBlog"><h4>My Blog</h4><span class="sr-only">(current)</span></a>
+                    </li>
                 </ul>
             </div>
         </nav>
