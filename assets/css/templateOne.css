@@ -6,6 +6,10 @@ body {
     padding: 0;
 }
 
+.fundoCorpo {
+    background-color: rgb(236, 235, 233);
+}
+
 .fudoImg {
     background-image: url("../images/fundo1.jpg");
     background-size: cover;

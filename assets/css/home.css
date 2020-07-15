@@ -1,27 +1,18 @@
-.fundo1{
+.fundo1 {
     background-image: url("../images/fundo1.jpg");
     background-repeat: no-repeat, repeat;
     background-size: cover;
 }
 
-a{
+a {
     text-decoration: none;
     font-size: 14px;
 }
 
-a:hover{
+a:hover {
     text-decoration: none;
 }
 
-.noMercado{
-    color: rgb(228, 0, 43);
-}
-
-.noMercado:hover{
-    color: rgb(228, 0, 43);
-}
-
-h6{
+h6 {
     font-size: 16px;
 }
-

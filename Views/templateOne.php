@@ -19,7 +19,7 @@
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/myknow.css"/>
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/myprojects.css"/>
     </head>
-    <body onload="date()">
+    <body onload="date()" class="fundoCorpo">
         <nav class="navbar navbar-expand-lg navbar-light style-nave font-title fundoPadrao">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
                <img class="img-logo" src="<?php echo BASE_URL;?>assets/images/logo.png" >
