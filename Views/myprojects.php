@@ -32,7 +32,7 @@
     </div>
     <div class="row d-flex justify-content-center">
         <div class="col-sm-3">
-            <div class="p-2 d-flex justify-content-center ">
+            <div class="p-2 d-flex justify-content-center">
                 <a class="btn btn-sm btn-block" target="_blank" href="http://nomercadosoft.com.br/"><h5>Visit us to find out more!</h5></a>
             </div>
         </div>
@@ -40,7 +40,7 @@
 </div>
 
 
-<div class="container-fluid style3 margin-top paddingTop padding-bottom animated bounceIn slow">
+<div class="container-fluid margin-top paddingTop padding-bottom animated bounceIn slow">
     <div class="row ">
         <div class="col-sm">
             <div class="p-2 d-flex justify-content-center ">
