@@ -12,11 +12,11 @@
         $config['dbpass'] = '';
     }else{
         //Informações para o banco externo
-        define("BASE_URL","http://www.meusite.com/");
+        define("BASE_URL","http://www.iwebwork.com.br/");
         $config['dbname'] = '';
-        $config['host'] = '127.0.0.1';
-        $config['dbuser'] = 'root';
-        $config['dbpass'] = '';
+        $config['host'] = 'mysql873.umbler.com:41890';
+        $config['dbuser'] = 'iwebwork';
+        $config['dbpass'] = '06101218iwebwork';
     }
 
     global $pdo;
