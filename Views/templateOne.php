@@ -20,24 +20,26 @@
         <link rel="stylesheet" type="text/css" href="<?php echo BASE_URL;?>assets/css/myprojects.css"/>
     </head>
     <body onload="date()">
-        <nav class="navbar navbar-expand-lg navbar-light style-nave font-title fudoImg">
+        <nav class="navbar navbar-expand-lg navbar-light style-nave font-title fundoPadrao">
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo03" aria-controls="navbarTogglerDemo03" aria-expanded="false" aria-label="Toggle navigation">
                <img class="img-logo" src="<?php echo BASE_URL;?>assets/images/logo.png" >
             </button>
 
             <div class="collapse navbar-collapse d-flex justify-content-center" id="navbarTogglerDemo03">
-                <a href="<?php echo BASE_URL;?>" class="navbar-brand logo-invisible" href="#"><img class="img-fluid animated bounceIn slow img-logo" src="<?php echo BASE_URL;?>assets/images/logo.png" ></a>
+                <a href="<?php echo BASE_URL;?>" class="navbar-brand logo-invisible" href="#">
+                    <img class="img-fluid animated bounceIn slow img-logo" src="<?php echo BASE_URL;?>assets/images/logo.png" >
+                </a>
                 <ul class="navbar-nav" id="navUl">
-                    <li class="style-nave-text" data-id="1">
-                        <a class="nav-link a-clear" href="<?php echo BASE_URL;?>"><h4>Home page</h4><span class="sr-only">(current)</span></a>
+                    <li class="style-nave-text efeitoHoverLinks" data-id="1">
+                        <a class="nav-link" href="<?php echo BASE_URL;?>"><h4>Home page</h4><span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="style-nave-text" data-id="2">
-                        <a class="nav-link a-clear" href="<?php echo BASE_URL;?>myknow"><h4>My knowledge</h4><span class="sr-only">(current)</span></a>
+                    <li class="style-nave-text efeitoHoverLinks" data-id="2">
+                        <a class="nav-link" href="<?php echo BASE_URL;?>myknow"><h4>My knowledge</h4><span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="style-nave-text" data-id="3">
-                        <a class="nav-link a-clear" href="<?php echo BASE_URL;?>myprojects"><h4>My Projects</h4><span class="sr-only">(current)</span></a>
+                    <li class="style-nave-text efeitoHoverLinks" data-id="3">
+                        <a class="nav-link" href="<?php echo BASE_URL;?>myprojects"><h4>My Projects</h4><span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="style-nave-text" data-id="4">
+                    <li class="style-nave-text efeitoHoverLinks" data-id="4">
                         <a class="nav-link" href="<?php echo BASE_URL;?>meuBlog"><h4>My Blog</h4><span class="sr-only">(current)</span></a>
                     </li>
                 </ul>
@@ -64,7 +66,7 @@
                 </div>
                 <div clas="col-sm-5 d-flex flex-column">
                     <div class="p-2 d-flex ">
-                        <a class="btn btn-sm btn-block" href="<?php echo BASE_URL?>assets/arquivos diversos/Currículo de TI - Igor Siqueira da Silva.pdf" download>
+                        <a class="btn btn-sm btn-block efeitoHoverLinks" href="<?php echo BASE_URL?>assets/arquivos diversos/Currículo de TI - Igor Siqueira da Silva.pdf" download>
                             My Curriculum
                         </a>
                     </div>
@@ -79,19 +81,19 @@
             </div>
             <div class="row d-flex justify-content-center">
                 <div class="col-sm-2">
-                    <a target="_blank" href="https://www.facebook.com/igorsiqueira.silva" class="btn btn-lg btn-block kpx_btn-facebook" data-toggle="tooltip" data-placement="top" title="Facebook">
+                    <a target="_blank" href="https://www.facebook.com/igorsiqueira.silva" class="btn btn-lg btn-block kpx_btn-facebook efeitoHoverLinks" data-toggle="tooltip" data-placement="top" title="Facebook">
                         <i class="fa fa-facebook fa-2x"></i>
                         <span class="hidden-xs"></span>
                     </a>   
                 </div>
                 <div class="col-sm-2">
-                    <a target="_blank" href="https://www.linkedin.com/in/igor-siqueira-da-silva-45aba613a/" class="btn btn-lg btn-block kpx_btn-linkedin" data-toggle="tooltip" data-placement="top" title="LinkedIn">
+                    <a target="_blank" href="https://www.linkedin.com/in/igor-siqueira-da-silva-45aba613a/" class="btn btn-lg btn-block kpx_btn-linkedin efeitoHoverLinks" data-toggle="tooltip" data-placement="top" title="LinkedIn">
                         <i class="fa fa-linkedin fa-2x"></i>
                         <span class="hidden-xs"></span>
                     </a>
                 </div>
                 <div class="col-sm-2">
-                    <a target="_blank" href="https://github.com/iwebwork?tab=repositories" class="btn btn-lg btn-block kpx_btn-github" data-toggle="tooltip" data-placement="top" title="GitHub">
+                    <a target="_blank" href="https://github.com/iwebwork?tab=repositories" class="btn btn-lg btn-block kpx_btn-github efeitoHoverLinks" data-toggle="tooltip" data-placement="top" title="GitHub">
                         <i class="fa fa-github fa-2x"></i>
                         <span class="hidden-xs"></span>
                     </a>
