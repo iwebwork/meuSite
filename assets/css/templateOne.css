@@ -1,109 +1,107 @@
-body{
+body {
     color: #4D452F;
-    font-family: Helvetica,Arial, sans-serif;
+    font-family: Helvetica, Arial, sans-serif;
     font-size: 14px;
-    margin:0;
+    margin: 0;
     padding: 0;
 }
 
-.fudoImg{
+.fudoImg {
     background-image: url("../images/fundo1.jpg");
     background-size: cover;
     background-repeat: no-repeat, repeat;
 }
 
-.fundoPadrao{
+.fundoPadrao {
     background-color: antiquewhite;
 }
 
-.font-title{
+.font-title {
     font-family: "Lato", Times, serif;
 }
 
-.img-logo{
+.img-logo {
     max-width: 100px;
 }
 
-.style-nave{
-    background-color:transparent;
-    
+.style-nave {
+    background-color: transparent;
 }
 
-.style-nave-text{
+.style-nave-text {
     color: #4D452F;
 }
 
-.style-nave-text:hover{
+.style-nave-text:hover {
     color: #4D452F;
     border-style: solid;
     border-width: 3px 0px 0px 0px;
     border-color: #4D452F;
-
 }
 
-.style-nave-text:active{
+.style-nave-text:active {
     color: #4D452F;
     border-style: solid;
     border-width: 5px 0px 0px 0px;
     border-color: #4D452F;
-
 }
 
-.active{
+.active {
     border-style: solid;
     border-width: 5px 0px 0px 0px;
     border-color: #4D452F;
 }
 
-
-.style-rodape{
-    background-color:#F7BA00;
-}
-
-.style1{
+.style-rodape {
     background-color: #F7BA00;
 }
 
-.style2{
-    background-color:#FFD045;
+.style1 {
+    background-color: #F7BA00;
 }
-.style3{
-    background-color:#FFBF00;
+
+.style2 {
+    background-color: #FFD045;
 }
-.style4{
-    background-color:#4D452F;
+
+.style3 {
+    background-color: #FFBF00;
 }
-.style5{
-    background-color:#CC9900;
+
+.style4 {
+    background-color: #4D452F;
+}
+
+.style5 {
+    background-color: #CC9900;
 }
 
 .principal {
-    color:  #FF9D00;
+    color: #FF9D00;
 }
 
 .secundaria {
-    color:  #4D452F;
+    color: #4D452F;
 }
 
-.margin-top{
+.margin-top {
     margin-top: 30px;
 }
 
-.paddingTop{
+.paddingTop {
     padding-top: 30px;
 }
 
-.padding-bottom{
+.padding-bottom {
     padding-bottom: 30px;
 }
 
-.rodape-shadow{
+.rodape-shadow {
     box-shadow: 100px 10px 4px grey;
 }
 
-
 @media (max-width: 991px) {
-    .logo-invisible{
+    .logo-invisible {
         display: none;
     }
 }
