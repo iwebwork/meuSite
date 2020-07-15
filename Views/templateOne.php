@@ -49,6 +49,7 @@
         <?php $this->loadViewInTemplateOne($viewName, $viewData);?>
 
         <div class="container-fluid margin-top shadow-lg bg-light rounded" id="rodape">
+            <br/>
             <div class="row d-flex justify-content-center">
                 <h4 class="font-weight-bold">Contact information</h4>
             </div>
@@ -61,7 +62,7 @@
                         - Email: igorsiqueira.adm@gmail.com
                     </div>
                     <div class="p-2 d-flex ">
-                        - Telephone:+55 (31)9 9403-2335
+                        - Telephone:+55 (31)9 9645-0899
                     </div>
                 </div>
                 <div clas="col-sm-5 d-flex flex-column">
@@ -99,6 +100,7 @@
                     </a>
                 </div>
             </div>
+            <br/>
             <div class="row">
                 <div class="col-sm">
                     <p class="text-center"> Igor Siqueira da Silva - All rights reserved @<text id="data"> </text></p>
