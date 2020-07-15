@@ -36,23 +36,10 @@ body {
     color: #4D452F;
 }
 
-.style-nave-text:hover {
+.active {
     color: #4D452F;
     border-style: solid;
     border-width: 3px 0px 0px 0px;
-    border-color: #4D452F;
-}
-
-.style-nave-text:active {
-    color: #4D452F;
-    border-style: solid;
-    border-width: 5px 0px 0px 0px;
-    border-color: #4D452F;
-}
-
-.active {
-    border-style: solid;
-    border-width: 5px 0px 0px 0px;
     border-color: #4D452F;
 }
 

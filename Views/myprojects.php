@@ -71,7 +71,7 @@
             </div>
         </div>
     </div>
-    <div class="row d-flex justify-content-center">
+    <!-- <div class="row d-flex justify-content-center">
         <div class="col-sm-5">
             <div class="p-2 d-flex justify-content-center ">
                 <a class="btn btn-sm btn-block a-clear" target="_blank" href="<?php echo BASE_URL;?>projects/pi2019PrimeiroSemestre-master/index.php"><h5>Visit to find out more! - User Version</h5></a>
@@ -83,15 +83,15 @@
                 <a class="btn btn-sm btn-block a-clear" target="_blank" href="<?php echo BASE_URL;?>projects/pi2019PrimeiroSemestre-master/admin/index.php"><h5>Visit to find out more! - Administrative Version</h5></a>
             </div>
         </div>
-    </div>
-    <div class="row d-flex justify-content-center">
+    </div> -->
+    <!-- <div class="row d-flex justify-content-center">
         <div class="col-sm-4">
             <div class="p-2 text-center">
                 NOTE: If you request login use - E-Mail: igor@gmail.com, Password: teste
             </div>
               
         </div>
-    </div>
+    </div> -->
 </div>
 <div class="container-fluid margin-top paddingTop padding-bottom animated bounceIn slow">
     <div class="row ">
@@ -126,7 +126,7 @@
             </div>
         </div>
     </div>
-    <div class="row d-flex justify-content-center">
+    <!-- <div class="row d-flex justify-content-center">
         <div class="col-sm-3">
             <div class="p-2 d-flex justify-content-center ">
                 <a class="btn btn-sm btn-block" target="_blank" href="<?php echo BASE_URL;?>projects/agComercial-versao1.0/index.php"><h5>Visit to find out more!</h5></a>
@@ -140,5 +140,5 @@
             </div>
               
         </div>
-    </div>
+    </div> -->
 </div>

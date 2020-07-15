@@ -30,16 +30,16 @@
                     <img class="img-fluid animated bounceIn slow img-logo" src="<?php echo BASE_URL;?>assets/images/logo.png" >
                 </a>
                 <ul class="navbar-nav" id="navUl">
-                    <li class="style-nave-text efeitoHoverLinks" data-id="1">
+                    <li class="style-nave-text" id="1">
                         <a class="nav-link" href="<?php echo BASE_URL;?>"><h4>Home page</h4><span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="style-nave-text efeitoHoverLinks" data-id="2">
+                    <li class="style-nave-text" id="2">
                         <a class="nav-link" href="<?php echo BASE_URL;?>myknow"><h4>My knowledge</h4><span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="style-nave-text efeitoHoverLinks" data-id="3">
+                    <li class="style-nave-text" id="3">
                         <a class="nav-link" href="<?php echo BASE_URL;?>myprojects"><h4>My Projects</h4><span class="sr-only">(current)</span></a>
                     </li>
-                    <li class="style-nave-text efeitoHoverLinks" data-id="4">
+                    <li class="style-nave-text" id="4">
                         <a class="nav-link" href="<?php echo BASE_URL;?>meuBlog"><h4>My Blog</h4><span class="sr-only">(current)</span></a>
                     </li>
                 </ul>
